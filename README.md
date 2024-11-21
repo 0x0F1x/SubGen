@@ -22,7 +22,7 @@ By analyzing existing subdomain patterns, SubGen predicts new subdomains that mi
 SubGen provides an advanced solution for subdomain enumeration using GAN-based machine learning, offering exceptional customization and intelligence.  
 
 ### **1. Adjustable Subdomain Levels**
-- 🎯 **Granular Control**: Specify the depth of subdomain generation with the `--level` parameter. Choose from a wide range of levels (e.g., 1-10) to determine the complexity and depth of generated subdomains.  
+- 🎯 **Granular Control**: Specify the depth of subdomain generation with the `--level` parameter. Choose from a wide range of levels (exam 1-5) to determine the complexity and depth of generated subdomains.  
 - 🧩 **Customizable Enumeration**: Enables targeted discovery of subdomains for deep or shallow reconnaissance, based on user needs.  
 
 ### **2. Pattern Combination Based on TLD**
@@ -74,14 +74,14 @@ python3 main.py -u <domain> -w <wordlist> -sub <subdomain_list> --level <range> 
 
 ### **Example**  
 ```bash  
-python3 main.py -u site.com -w words.txt -sub sub.txt --level 1-10 -o mm -h  
+python3 main.py -u site.com -w words.txt -sub sub.txt --level 1-5 -o mm -h  
 ```  
 
 ### **Parameters**  
 - `-u`: Specify the target domain (e.g., `example.com`).  
 - `-w`: Provide a wordlist file for generating subdomains.  
 - `-sub`: Include a list of known subdomains for pattern analysis.  
-- `--level`: Define the depth level for subdomain generation (e.g., `1-10`).  
+- `--level`: Define the depth level for subdomain generation (e.g., `1-5`).  
 - `-o`: Specify the output file to save results.  
 - `-h`: Display help and usage information.  
 
