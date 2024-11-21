@@ -3,7 +3,7 @@
 #SubGen: Subdomain Generation with GAN-based Machine Learning
 
 ## **Introduction**  
-SubGen is an advanced machine learning project designed to generate subdomains intelligently using Generative Adversarial Networks (GANs). This project leverages the power of GANs to predict potential subdomains for a given domain, enhancing the capabilities of penetration testers, bug bounty hunters, and cybersecurity professionals.  
+SubGen is an advanced machine learning project designed to generate subdomains intelligently using GAN. This project leverages the power of GANs to predict potential subdomains for a given domain, enhancing the capabilities of penetration testers, bug bounty hunters, and cybersecurity professionals.  
 
 By analyzing existing subdomain patterns, SubGen predicts new subdomains that might exist but are not yet discovered, offering an innovative approach to reconnaissance and attack surface enumeration.
 
@@ -74,7 +74,7 @@ python3 main.py -u <domain> -w <wordlist> -sub <subdomain_list> --level <range> 
 
 ### **Example**  
 ```bash  
-python3 main.py -u unk9vvn.com -w words.txt -sub sub.txt --level 1-10 -o mm -h  
+python3 main.py -u site.com -w words.txt -sub sub.txt --level 1-10 -o mm -h  
 ```  
 
 ### **Parameters**  
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 ### **Installation** 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/SubGen.git  
+   git clone https://github.com/0x0F1x/SubGen.git  
    cd SubGen  
    ```  
 2. Install dependencies:  
