@@ -74,7 +74,7 @@ python3 main.py -u <domain> -w <wordlist> -sub <subdomain_list> --level <range> 
 
 ### **Example**  
 ```bash  
-python3 main.py -u site.com -w words.txt -sub sub.txt --level 1-5 -o mm -h  
+python3 main.py -u site.com -w words.txt -sub sub.txt --level 1-5 -o output.txt -h  
 ```  
 
 ### **Parameters**  
