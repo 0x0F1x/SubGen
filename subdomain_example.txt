@@ -1,0 +1,4 @@
+example.com
+usb.example.com
+bot.example.com
+ftp.visual.example.com
