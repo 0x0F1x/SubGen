@@ -33,8 +33,6 @@ class Discriminator(nn.Module):
     def forward(self, x):
         return self.fc(x)
 
-    def forward(self, x):
-        return self.fc(x)
 
 def create_training_data(domains):
 
