@@ -142,7 +142,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 SubGen is an open-source project that relies on community support and donations to continue growing and improving. If you're benefiting from this project and would like to support it, please consider making a donation.
 
 🧡 **Support the Project**    
-- **btc**:  [bc1qhkfen9qrj6l5d5p3e50jyxc2whffr03estfr37](#)
+- **BTC**:  [bc1qhkfen9qrj6l5d5p3e50jyxc2whffr03estfr37](#)
 - **ETH**:  [0xDCB274A50a86399d451f537ba857799DC8D3fED8](#)
 - **XRP**:  [rPNJ5DN37NKCCtzgMEcA7eSgJXaCE6uUzR](#)
 - **XMRT**:  [0x7f7Fba841Eb9f6cE80F1968298c558dC0a2e5a5f](#)
