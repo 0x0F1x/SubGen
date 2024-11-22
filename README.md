@@ -78,10 +78,10 @@ python3 main.py -u site.com -w words.txt -sub sub.txt --level 1-5 -o output.txt 
 ```  
 
 ### **Parameters**  
-- `-u`: Specify the target domain (e.g., `example.com`).  
+- `-u`: Specify the target domain.
 - `-w`: Provide a wordlist file for generating subdomains.  
 - `-sub`: Include a list of known subdomains for pattern analysis.  
-- `--level`: Define the depth level for subdomain generation (e.g., `1-5`).  
+- `--level`: Define the depth level for subdomain generation.
 - `-o`: Specify the output file to save results.  
 - `-h`: Display help and usage information.  
 
