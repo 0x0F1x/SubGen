@@ -136,36 +136,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
----
-
-### **Donate**  
-SubGen is an open-source project that relies on community support and donations to continue growing and improving. If you're benefiting from this project and would like to support it, please consider making a donation.
-
-🧡 **Support the Project**    
-- **BTC**:  [bc1qhkfen9qrj6l5d5p3e50jyxc2whffr03estfr37](#)
-- **ETH**:  [0xDCB274A50a86399d451f537ba857799DC8D3fED8](#)
-- **XRP**:  [rPNJ5DN37NKCCtzgMEcA7eSgJXaCE6uUzR](#)
-- **XMRT**:  [0x7f7Fba841Eb9f6cE80F1968298c558dC0a2e5a5f](#)
-- **USDTet**:  [terra1xakltt4zacem7795cxug3su5end6299h347skg](#)
-- **USDT(ETH)**:  [0xDCB274A50a86399d451f537ba857799DC8D3fED8](#)
-- **USDT(tron)**:  [TMDsCUiAEzPvS7MzzV9BoCmF5FY9NGmvmN](#)
-- **LTC**:  [ltc1qg9zqymcv63v3ccmh3fm2ak2y7vdsftn0xse2ky](#)
-Your donations allow us to add new features, fix bugs, and make SubGen an even more powerful tool for the cybersecurity community.
-
----
-
- 
-👋 **Thank you for trying out SubGen!**  
-We truly appreciate your support in expanding this project. Your feedback, suggestions, and contributions are highly valued. If you have any questions or need assistance, we’re here to help. Please share this project with others and consider supporting us if possible.
-
-**By using SubGen, you’re advancing the field of cybersecurity and contributing to the growth of knowledge in penetration testing and network data gathering.**
-
----
-
-
-
-
-
-
 
 
